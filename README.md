@@ -1,6 +1,6 @@
 # YouTube Video Summarizer 
 
-A simple tool that helps to summarize a YouTube video with the help of AI saving time and giving insights.
+A simple tool that helps to summarize a YouTube video with the help of AI, saving time and giving insights.
 
 The system helps the user to understand the video by giving the following output:
 1. Short Summary
@@ -33,7 +33,6 @@ The system helps the user to understand the video by giving the following output
 ## Links
 Tool link - https://opal.google/app/1mWKT5jD3gtSSXGxUXbnGG6UJnHgNuEMZ
 
-Demo video link - 
 
 
 
